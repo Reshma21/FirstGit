@@ -2,3 +2,6 @@ this is file f1 inside FirstGit
 
 
    this is the modification in notepad.then we'll commit this through terminal into FirstGit repository.
+
+this is the updation from central remote repository, we need to fetch it to local repositry using pull and fetch command.
+fetch command will fetch all files to local repository.
